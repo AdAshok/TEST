@@ -1,0 +1,17 @@
+GIT:
+
+git help config
+
+git config --global user.name "AADI"
+
+git init
+
+git status
+
+git add index.html
+
+git commit -m "Added index.html file to git repo"
+
+git add css/    git add css/*   git add '*.txt'  git add css/"*.txt"
+
+git log
