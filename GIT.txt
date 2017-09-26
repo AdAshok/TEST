@@ -16,4 +16,22 @@ git add css/    git add css/*   git add '*.txt'  git add css/"*.txt"
 
 git log
 
+git diff
+
+git diff --staged
+
+git reset -- filename-->Unstaging the file which added to stage
+
+git commit -a -m "commit message" -->add and commit in one shot
+
+git commit --amend -m "adding the files to same commit flow"
+
+git reset --soft HEAD^  -->which uncommit the recent index commit undo
+
+git checkout -- files which need to be discard changes to original
+
+git reset --hard HEAD^ -->completely undo the changes
+
 git remote add origin repo_url & git remote add test repo_url
+
+git push -u origin master
