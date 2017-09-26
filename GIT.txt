@@ -15,3 +15,5 @@ git commit -m "Added index.html file to git repo"
 git add css/    git add css/*   git add '*.txt'  git add css/"*.txt"
 
 git log
+
+git remote add origin repo_url & git remote add test repo_url
