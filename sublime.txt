@@ -1,0 +1,42 @@
+ctrl+shift+t  --> undo
+ctrl+n  -->
+alt + 1- 9 -->switching
+
+ctrl+pgup and pgdn
+
+ctrl + tab
+
+ctrl + p --> palette
+
+alt  + 0145 0146 0147 0148
+
+ctrl + [  -->indent
+ctrl + ] --> unindent
+
+ctrl + m --> matching brackets reference
+
+
+ctrl + shift + v
+
+ctrl + [1 to 9 ]
+
+ctrl + k ctrl + up or down arow
+
+ctrl + f  --> find
+
+ctrl + i --> incremental
+
+ctrl + h  --> replce
+
+ctrl + shift + f --> multiple files  F4 to move to results esc to dismiss
+
+ctrl + or -
+
+ctrl + shift + p
+
+
+Boxy theme --> package for color themes
+
+ZZ file icons
+
+Key Bindings
